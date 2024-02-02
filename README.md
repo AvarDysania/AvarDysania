@@ -75,32 +75,38 @@ To know more about me:
 
 <div align="center">
   <a href="#">
-    <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AvarDysania&layout=compact&theme=ambient_gradient&hide_border=false" alt="Shimon's top lang"/>
+    <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AvarDysania&layout=compact&theme=dark&hide_border=false" alt="Shimon's top lang"/>
   </a>
   <a href="#">
-    <img width="520em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvarDysania&theme=buefy" alt="Shimon's github summary"/>
-  </a>
-</div>
-  <br>
-<div align="center">
-  <a href="#">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AvarDysania&theme=ambient_gradient&show_icons=true&hide_border=false" alt="Shimon's github stats"/>
-  </a>
-  <a href="#">
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AvarDysania&theme=ambient_gradient&hide_border=false" alt="Shimons's github streak"/>
+    <img width="520em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvarDysania&theme=dark" alt="Shimon's github summary"/>
   </a>
 </div>
   <br>
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvarDysania&theme=minimal&area=true&radius=14&title_color=9479dd&point=ff3860&line=FFDF99" alt="Contribution Graph"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AvarDysania&theme=dark&show_icons=true&hide_border=false" alt="Shimon's github stats"/>
+  </a>
+  <a href="#">
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AvarDysania&theme=dark&hide_border=false" alt="Shimons's github streak"/>
+  </a>
+</div>
+  <br>
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvarDysania&theme=react-dark&area=true&radius=14&title_color=9479dd&point=ff3860&line=FFDF99" alt="Contribution Graph"/>
   </a>
 </div>
 
----
+
+
+##  Mathematics 💜 
+
+**The Cauchy-Schwarz Inequality and Sets**
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+<div align="center">n(AUB) = n(A – B) + n(B – A) + n(A⋂B)</div>
 
 ## 🎶 Spotify World
-
+---
 &nbsp;<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g1kvaszntujqa22jeywy9gvqb&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=g1kvaszntujqa22jeywy9gvqb&redirect=true)</div>
 
 
