@@ -66,11 +66,11 @@ To know more about me:
 
 ---
 ## 🪐 Time Stamps
-<div align="center">
-<img src="https://i.pinimg.com/236x/c0/79/1b/c0791bbd3b22d1b82a3498b0d5c092c5.jpg" height=280 width="150"/>   &nbsp;  &nbsp; &nbsp;
-<img src="https://i.pinimg.com/564x/7c/f2/8f/7cf28fb07a839837f56574c2500d8cba.jpg" height=280 width="150"/>   &nbsp;  &nbsp; &nbsp;
-<img src="https://i.pinimg.com/564x/ef/dd/1f/efdd1ff6a4c8ce0a260dd0246f44aea5.jpg" height=280 width="150"/>   &nbsp; &nbsp;  &nbsp;
-<img src="https://i.pinimg.com/564x/ee/8c/1e/ee8c1e52cbb095f8920dcb5b38ab3bcd.jpg" height=280 width="150"/></div>
+
+&nbsp;<img src="https://i.pinimg.com/236x/c0/79/1b/c0791bbd3b22d1b82a3498b0d5c092c5.jpg" height=280 width="150"/>   &nbsp;  &nbsp; &nbsp; &nbsp;
+<img src="https://i.pinimg.com/564x/7c/f2/8f/7cf28fb07a839837f56574c2500d8cba.jpg" height=280 width="150"/>   &nbsp;  &nbsp; &nbsp; &nbsp;
+<img src="https://i.pinimg.com/564x/ef/dd/1f/efdd1ff6a4c8ce0a260dd0246f44aea5.jpg" height=280 width="150"/>   &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="https://i.pinimg.com/564x/ee/8c/1e/ee8c1e52cbb095f8920dcb5b38ab3bcd.jpg" height=280 width="150"/>
 
 
 
