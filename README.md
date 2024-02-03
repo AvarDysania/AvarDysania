@@ -64,8 +64,15 @@ To know more about me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height=48/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height=48/> 
 
-          
-          
+---
+## 🪐 Time Stamps
+
+<img src="https://i.pinimg.com/236x/c0/79/1b/c0791bbd3b22d1b82a3498b0d5c092c5.jpg" height=280 width="220"/>   &nbsp;  &nbsp; &nbsp;
+<img src="https://i.pinimg.com/564x/7c/f2/8f/7cf28fb07a839837f56574c2500d8cba.jpg" height=280 width="220"/>   &nbsp;  &nbsp; &nbsp;
+<img src="https://i.pinimg.com/564x/ef/dd/1f/efdd1ff6a4c8ce0a260dd0246f44aea5.jpg" height=280 width="220"/>   &nbsp; &nbsp;  &nbsp;
+<img src="https://i.pinimg.com/564x/ee/8c/1e/ee8c1e52cbb095f8920dcb5b38ab3bcd.jpg" height=280 width="220"/>
+
+
 
 ---
 
@@ -105,8 +112,10 @@ To know more about me:
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 <div align="center">n(AUB) = n(A – B) + n(B – A) + n(A⋂B)</div>
 
+
+
 ## 🎶 Spotify World
----
+
 &nbsp;<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g1kvaszntujqa22jeywy9gvqb&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=g1kvaszntujqa22jeywy9gvqb&redirect=true)</div>
 
 
