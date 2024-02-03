@@ -65,7 +65,7 @@ To know more about me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height=48/> 
 
 ---
-## 🪐 Time Stamps
+# ⋆｡ﾟ🪐｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ🪐｡⋆｡ ﾟ☾ ﾟ｡⋆            ☾
 
 &nbsp;<img src="https://i.pinimg.com/236x/c0/79/1b/c0791bbd3b22d1b82a3498b0d5c092c5.jpg" height=280 width="160"/>   &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img src="https://i.pinimg.com/564x/7c/f2/8f/7cf28fb07a839837f56574c2500d8cba.jpg" height=280 width="160"/>   &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
