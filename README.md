@@ -4,7 +4,7 @@
 
 - 👨‍🎓 BCA Student (**Graphic Era University, Dehradun**)
 - 🧠 Investment in knowledge 
-- 📜 [My Resume](https://drive.google.com/drive/folders/1iLt7C71BN-Yxc5a0Qg_1P6hV2yFq4DmF)
+- 📜 [My Resume](https://drive.google.com/file/d/1DpQ0-fzJpc9yKBkAhNSJQ454E0Ls1Wsl/view?usp=drive_link)
 
 To know more about me:
 
