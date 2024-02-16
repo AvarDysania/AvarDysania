@@ -1,5 +1,5 @@
 # Shimon Joel 👨🏻‍💻 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&pause=1000&color=A985F7&random=false&width=435&lines=Android+Developer+;Web+Developer;Programmer;Video+Editor)](https://git.io/typing-svg)
-<a href="https://app.daily.dev/shimonjoel"><img src="https://api.daily.dev/devcards/7019ea7581234bf19b73c377cd418fe0.png?r=2s8" width="35%" align="right" alt="Shimon Joel's Dev Card"/></a>
+<a href="https://app.daily.dev/shimonjoel"><img src="https://api.daily.dev/devcards/v2/k6EEIWyoTJrZgFrPClItF.png?type=default&r=puc" width="35%" align="right" alt="Shimon Joel's Dev Card"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=AvarDysania&color=blueviolet)
 
 - 👨‍🎓 BCA Student (**Graphic Era University, Dehradun**)
