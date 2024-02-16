@@ -8,7 +8,7 @@
 - 🧠 Investing in Skills 
 - 📜 [My Resume](https://drive.google.com/file/d/1DpQ0-fzJpc9yKBkAhNSJQ454E0Ls1Wsl/view?usp=drive_link)
 
-To know more about me:
+&nbsp;&nbsp;&nbsp;&nbsp;To know more about me:
 
 <div>
 <a href="mailto:shimonjoel003@@gmail.com">
