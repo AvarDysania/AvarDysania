@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=AvarDysania&color=blueviolet)
 # Shimon Joel 👨🏻‍💻 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&pause=1000&color=A985F7&random=false&width=435&lines=Android+Developer+;Web+Developer;Programmer;Video+Editor;Gamer)](https://git.io/typing-svg)
-  ![13f0c07d504ab54076aa4e258e50ee4800e7f0b4_hq](https://github.com/AvarDysania/AvarDysania/assets/123260188/aea26c4e-58db-403f-bd6b-587c0ba1e2c4)
+![13f0c07d504ab54076aa4e258e50ee4800e7f0b4_hq](https://github.com/AvarDysania/AvarDysania/assets/123260188/aea26c4e-58db-403f-bd6b-587c0ba1e2c4)
 <!--![dino](https://github.com/AvarDysania/AvarDysania/assets/123260188/3371125c-de5b-40df-9b7b-3544bb208263)-->
 <a href="https://app.daily.dev/shimonjoel"><img src="https://api.daily.dev/devcards/v2/k6EEIWyoTJrZgFrPClItF.png?type=default&r=u2d" align="right" width="356" alt="Shimon Joel's Dev Card"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -115,7 +115,6 @@
 **The Cauchy-Schwarz Inequality and Sets**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 <div align="center">n(AUB) = n(A – B) + n(B – A) + n(A⋂B)</div>
-
 
 
 ##  Spotify World 🎧
