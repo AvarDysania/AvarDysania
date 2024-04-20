@@ -1,3 +1,6 @@
+![Header Image](https://cdn.shopify.com/s/files/1/0066/4574/3686/files/Chicago_Skyline_LinkedIn_Background_Photo.png?v=1627912075) 
+<br>
+<br>
 ![](https://komarev.com/ghpvc/?username=AvarDysania&color=blueviolet)
 # Shimon Joel 👨🏻‍💻 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&pause=1000&color=A985F7&random=false&width=435&lines=Android+Developer+;Web+Developer;Programmer;Video+Editor;Gamer)](https://git.io/typing-svg)
 
