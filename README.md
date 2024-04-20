@@ -14,7 +14,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;To know more about me:
 <div>
-<a href="mailto:shimonjoel003@@gmail.com">
+<a href="mailto:shimonjoel003@gmail.com">
   <img alt="Shimon's Email" height="40px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"/>
 </a>  
 <a href="https://www.linkedin.com/in/shimon-joel-63097b229/">
