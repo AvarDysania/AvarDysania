@@ -113,10 +113,12 @@
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 <div align="center">n(AUB) = n(A – B) + n(B – A) + n(A⋂B)</div>
 
--->
+
 ##  Spotify World 🎧
 
 &nbsp;<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g1kvaszntujqa22jeywy9gvqb&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=g1kvaszntujqa22jeywy9gvqb&redirect=true)</div>
+
+-->
 
 
 
