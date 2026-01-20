@@ -6,7 +6,7 @@
 
 <!--![dino](https://github.com/AvarDysania/AvarDysania/assets/123260188/3371125c-de5b-40df-9b7b-3544bb208263)
 <a href="https://app.daily.dev/shimonjoel"><img src="https://api.daily.dev/devcards/v2/k6EEIWyoTJrZgFrPClItF.png?type=default&r=u2d" align="right" width="356" alt="Shimon Joel's Dev Card"/></a>-->
-&nbsp;&nbsp;
+
 
 - 👨‍🎓 BCA Student (**Graphic Era University, Dehradun**)
 - 🧠 Investing in Skills 
