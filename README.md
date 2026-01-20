@@ -1,8 +1,8 @@
 <!--![Header Image](https://drive.google.com/uc?export=view&id=13KcZUOQayHfN2VBN58LRLoYk_TrIkb_x) 
 <br>
 <br> -->
-![](https://komarev.com/ghpvc/?username=AvarDysania&color=FF0000)
-# Shimon Joel 👨🏻‍💻 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&pause=1000&color=FF0000&random=false&width=435&lines=Application+Developer+;Web+Developer;Programmer;Video+Editor;Musician;Gamer)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=AvarDysania&color=8B0000)
+# Shimon Joel 👨🏻‍💻 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&pause=1000&color=8B0000&random=false&width=435&lines=Application+Developer+;Web+Developer;Programmer;Video+Editor;Musician;Gamer)](https://git.io/typing-svg)
 
 <!--![dino](https://github.com/AvarDysania/AvarDysania/assets/123260188/3371125c-de5b-40df-9b7b-3544bb208263)
 <a href="https://app.daily.dev/shimonjoel"><img src="https://api.daily.dev/devcards/v2/k6EEIWyoTJrZgFrPClItF.png?type=default&r=u2d" align="right" width="356" alt="Shimon Joel's Dev Card"/></a>-->
