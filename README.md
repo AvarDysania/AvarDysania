@@ -1,4 +1,4 @@
-![Header Image](https://drive.google.com/file/d/1oYCCAA9DHqoKWo0wgOVP3VHDZ5pL9W9Y/view?usp=drive_link) 
+![Header Image](https://www.linkedin-makeover.com/tools/background/) 
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=AvarDysania&color=blueviolet)
