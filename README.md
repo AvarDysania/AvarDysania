@@ -1,4 +1,4 @@
-![Header Image](https://www.linkedin-makeover.com/tools/background/) 
+![Header Image](https://camo.githubusercontent.com/74748735dd4a901eb95e13bae9a934d7793da0f848bd00c39c773f3d28f28b68/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303036362f343537342f333638362f66696c65732f4368696361676f5f536b796c696e655f4c696e6b6564496e5f4261636b67726f756e645f50686f746f2e706e673f763d31363237393132303735) 
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=AvarDysania&color=blueviolet)
