@@ -7,6 +7,7 @@
 <!--![dino](https://github.com/AvarDysania/AvarDysania/assets/123260188/3371125c-de5b-40df-9b7b-3544bb208263)
 <a href="https://app.daily.dev/shimonjoel"><img src="https://api.daily.dev/devcards/v2/k6EEIWyoTJrZgFrPClItF.png?type=default&r=u2d" align="right" width="356" alt="Shimon Joel's Dev Card"/></a>-->
 &nbsp;&nbsp;&nbsp;&nbsp;
+
 - 👨‍🎓 BCA Student (**Graphic Era University, Dehradun**)
 - 🧠 Investing in Skills 
 - 📜 [My Resume](https://drive.google.com/drive/u/0/folders/1iLt7C71BN-Yxc5a0Qg_1P6hV2yFq4DmF)
@@ -37,6 +38,7 @@
 
 | 🏢 Company                          | 💼 Role              | 🕰️ Duration         |
 | ----------------------------------- | -------------------- | ------------------- |
+| [Accenture](https://www.accenture.com/us-en) | Software Engineer | Sep 2024 - Present |
 | [Deloitte](https://www2.deloitte.com/us/en.html) | Apprenticeship | Feb 2023 - March 2023 |
 
 ## 🌟 Tech Stack
