@@ -1,4 +1,4 @@
-![Header Image](https://cdn.shopify.com/s/files/1/0066/4574/3686/files/Chicago_Skyline_LinkedIn_Background_Photo.png?v=1627912075) 
+![Header Image](https://drive.google.com/file/d/1oYCCAA9DHqoKWo0wgOVP3VHDZ5pL9W9Y/view?usp=drive_link) 
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=AvarDysania&color=blueviolet)
