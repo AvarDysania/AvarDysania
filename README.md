@@ -1,6 +1,6 @@
-![Header Image](https://drive.google.com/uc?export=view&id=13KcZUOQayHfN2VBN58LRLoYk_TrIkb_x) 
+<!--![Header Image](https://drive.google.com/uc?export=view&id=13KcZUOQayHfN2VBN58LRLoYk_TrIkb_x) 
 <br>
-<br>
+<br> -->
 ![](https://komarev.com/ghpvc/?username=AvarDysania&color=228B22)
 # Shimon Joel 👨🏻‍💻 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&pause=1000&color=228B22&random=false&width=435&lines=Application+Developer+;Web+Developer;Programmer;Video+Editor;Musician;Gamer)](https://git.io/typing-svg)
 
